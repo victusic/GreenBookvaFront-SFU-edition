@@ -1,4 +1,4 @@
-<h1 align="center">Green Bookva (Front) SFU edition</h1>
+<h1 align="center">Green Bookva (Front)</h1>
 
 <h3>ENG</h3>
 <h4>The largest project I've created is a full-fledged bookstore (except for payment), with adaptive layout, using the SCSS preprocessor</h4> 
